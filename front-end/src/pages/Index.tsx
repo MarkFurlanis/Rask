@@ -26,7 +26,7 @@ const Index = () => {
           <div className="space-y-6">
             <div className="flex items-center gap-3">
               <FileText className="h-10 w-10 text-primary" />
-              <h1 className="text-3xl font-bold">StableBridge</h1>
+              <h1 className="text-3xl font-bold">Rask</h1>
             </div>
             <p className="text-xl text-muted-foreground">
               Streamline your invoice management process with our secure platform.
@@ -56,7 +56,7 @@ const Index = () => {
       <footer className="border-t py-4">
         <div className="container mx-auto px-4">
           <p className="text-center text-sm text-muted-foreground">
-            &copy; 2025 Hack The Chain. All rights reserved.
+            &copy; 2025 Rask. All rights reserved.
           </p>
         </div>
       </footer>
