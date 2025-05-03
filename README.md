@@ -1,6 +1,5 @@
 <h1>
-  <img src="front-end/public/WhatsApp%20Image%202025-04-12%20at%2022.05.27.jpeg" width="70" style="vertical-align: middle; margin-right: 10px;">
-  StableBridge
+  Rask
 </h1>
 
 # 🤝 TrustlessPay
@@ -73,16 +72,18 @@ We combine **AI-based invoice parsing**, **smart contract logic**, and **stablec
 
 ## 🛠 Status
 
-> 🧪 MVP in progress – expected to launch testnet demo Q3 2025
+> 🧪 Developed an MVP with database and blochain payments using RLUSD, AI coming soon
 
 ---
 
 ## 🤝 Team
 
-- [Your Name] – AI Engineering  
-- [Your Teammate] – Blockchain & Smart Contract Dev  
-- [Your Teammate] – Business & Partnerships  
-- [Your Teammate] – Fullstack & Infra
+- Mark Furlanis – Finance Student at Bocconi (Milan)
+- Ivano Dalla Costa - Computer Engineering at PoliMi (Milan)  
+- Martina Carlà – Management Student at Bocconi (Milan) 
+- Stefano Obert – Computer Engineering at PoliMi (Milan)
+- Zhi Yi Chen – Finance Student at Bocconi (Milan)
+- Xin Yi Chen – Finance Student at Bocconi (Milan) 
 
 ---
 
@@ -90,8 +91,7 @@ We combine **AI-based invoice parsing**, **smart contract logic**, and **stablec
 
 Want to learn more or collaborate?
 
-📧 universitystartupchallenge@gmail.com  
-🔗 [LinkedIn] (optional)
+🔗 www.linkedin.com/in/mark-furlanis 
 
 ---
 
